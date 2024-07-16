@@ -21,7 +21,7 @@ def main():
         main_menu = ['test element', 'another test element', 'Kilépés']
         func_list = [first, second]
         os.system("clear")
-        print("2024 Kovács Norbert - Algoritmusok és adatszerkezetek beadandó")
+        print("2024 Kovács Norbert - Algoritmusok és adatszerkezetek beadandó\n")
         answer = MenuDrawer.draw(main_menu)
 
         if(answer == -2 or answer == -3):
