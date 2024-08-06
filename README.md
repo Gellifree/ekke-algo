@@ -1,5 +1,7 @@
 # Adatszerkezet és algoritmusok Gyakorlat beadandó feladat
 
+![Kovács Norbert - PTI BSC](./Github_Header.png)
+
 ## Beadandó feladatok rövid leírása
 
 - Kereső függvények elemzése és összehasonlítása (20 oldal)
