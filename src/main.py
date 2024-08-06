@@ -20,7 +20,7 @@ def main():
     while(answer != -1):
         main_menu = ['test element', 'another test element', 'Kilépés']
         func_list = [first, second]
-        os.system("clear")
+        os.system("cls")
         print("2024 Kovács Norbert - Algoritmusok és adatszerkezetek beadandó\n")
         answer = MenuDrawer.draw(main_menu)
 
@@ -32,7 +32,7 @@ def main():
             input(" >> done <<")
         else:
             input("Az alkalmazás most kilép.")
-            os.system("clear")
+            os.system("cls")
 
 if __name__ == "__main__":
 	main()
